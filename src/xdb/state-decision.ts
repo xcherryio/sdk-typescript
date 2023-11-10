@@ -1,3 +1,3 @@
-export interface StateDecision{
+export interface StateDecision {
     // TODO
 }

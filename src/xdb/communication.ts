@@ -1,4 +1,3 @@
-
-export interface Communication{
+export interface Communication {
     // TODO
 }

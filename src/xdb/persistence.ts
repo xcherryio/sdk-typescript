@@ -1,3 +1,3 @@
-export interface Persistence{
+export interface Persistence {
     // TODO
 }

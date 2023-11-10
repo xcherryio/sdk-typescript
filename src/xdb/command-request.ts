@@ -1,3 +1,3 @@
-export interface CommandRequest{
+export interface CommandRequest {
     // TODO
 }
