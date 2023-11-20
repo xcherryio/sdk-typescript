@@ -1,7 +1,7 @@
 {
-  "name": "xdb-ts-sdk",
-  "version": "0.0.1",
-  "description": "XDB typescript SDK",
+  "name": "xcherry-ts-sdk",
+  "version": "0.0.3",
+  "description": "xCherry typescript SDK",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdblab/xdb-ts-sdk.git"
+    "url": "git+https://github.com/xcherryio/sdk-typescript.git"
   },
   "author": "Quanzheng Long",
   "license": "Apache-2.0+",
   "bugs": {
-    "url": "https://github.com/xdblab/xdb-ts-sdk/issues"
+    "url": "https://github.com/xcherryio/sdk-typescript/issues"
   },
-  "homepage": "https://github.com/xdblab/xdb-ts-sdk#readme",
+  "homepage": "https://github.com/xcherryio/sdk-typescript#readme",
   "dependencies": {
-    "xdb-ts-api": "^1.0.1"
+    "xcherry-ts-api": "^0.0.1"
   },
   "devDependencies": {
     "@types/jest": "^29.5.8",
