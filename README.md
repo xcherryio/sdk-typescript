@@ -1,2 +1,2 @@
-# xdb-ts-sdk
+# xcherry-ts-sdk
 Typescript/Javascript SDK for SDB
